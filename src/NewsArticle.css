@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(218, 213, 213);
+}
+
+.article {
+
+    align-content: space-between;
+    background-color: rgb(177, 181, 182);
+    border-radius: 30px;
+    width: 80%;
+    margin-left: 140px;
+
+
+
+}
+
+img {
+    border-radius: 60px;
+    box-shadow: 20px 20px 10px lightgrey;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-family: fantasy;
+    font-size: large;
+}

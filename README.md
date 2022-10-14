@@ -1,3 +1,5 @@
+## News Challenge
+
 ### Project Objectives
 
  Test-drive a single page application in React that send requests to the Guardian API to get Headline and Article data
